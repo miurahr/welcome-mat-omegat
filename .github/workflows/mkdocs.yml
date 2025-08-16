@@ -27,7 +27,7 @@ jobs:
         mkdir -p source docs tm
         cp -r welcome-mat/docs/en/* source/
         cp -r welcome-mat/docs/assets docs/
-        cp -r welcome-mat/stylesheets docs/
+        cp -r welcome-mat/docs/stylesheets docs/
         rm -rf welcome-mat
 
     - name: Prepare OmegaT
