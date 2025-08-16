@@ -5,7 +5,16 @@ on:
     branches: [ main ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,10 +35,10 @@ jobs:
       run: |
         git config --global --add safe.directory $GITHUB_WORKSPACE
         git clone --depth 1 https://github.com/osmfoundation/welcome-mat.git
-        mkdir -p source docs/en tm overrides
-        cp -r welcome-mat/docs/en/* source/
+        mkdir -p source docs/ja tm overrides
+        cp -r welcome-mat/docs/en/* source/ja/
         # Prepare for mkdocs build
-        cp -r welcome-mat/docs/en/* docs/en/
+        cp -r welcome-mat/docs/en docs/
         cp -r welcome-mat/docs/assets docs/
         cp -r welcome-mat/docs/stylesheets docs/
         cp -r welcome-mat/overrides/* overrides/
