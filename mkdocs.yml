@@ -1,6 +1,6 @@
 site_name: Welcome to OpenStreetMap
 extra_css:
-  - stylesheets/extra.css
+  - stylesheet/extra.css
 
 # custom target
 site_dir: pages
