@@ -6,28 +6,28 @@
         <mapping local="/" repository="/"/>
       </repository>
       <repository type="http" url="https://github.com/osmfoundation/welcome-mat/raw/main/">
-        <mapping local="source/ja.yml" repository="docs/en/en.yml"/>
-        <mapping local="source/index.md" repository="docs/en/how-to-give-back.md"/>
-        <mapping local="source/how-to-give-back.md" repository="docs/en/how-to-give-back.md"/>
-        <mapping local="source/what-is-openstreetmap.md" repository="docs/en/what-is-openstreetmap.md"/>
-        <mapping local="source/who-is-openstreetmap.md" repository="docs/en/who-is-openstreetmap.md"/>
-        <mapping local="source/why-openstreetmap.md" repository="docs/en/why-openstreetmap.md"/>
-        <mapping local="source/about-osm-community/consumers.md" repository="docs/en/about-osm-community/consumers.md"/>
-        <mapping local="source/about-osm-community/history-of-osm.md" repository="docs/en/about-osm-community/history-of-osm.md"/>
-        <mapping local="source/about-osm-community/osm-foundation.md" repository="docs/en/about-osm-community/osm-foundation.md"/>
-        <mapping local="source/about-osm-community/donate-to-osm.md" repository="docs/en/about-osm-community/donate-to-osm.md"/>
-        <mapping local="source/about-osm-community/index.md" repository="docs/en/about-osm-community/index.md"/>
-        <mapping local="source/about-osm-community/osm-news.md" repository="docs/en/about-osm-community/osm-news.md"/>
-        <mapping local="source/about-osm-community/get-in-touch.md" repository="docs/en/about-osm-community/get-in-touch.md"/>
-        <mapping local="source/about-osm-community/local-chapters.md" repository="docs/en/about-osm-community/local-chapters.md"/>
-        <mapping local="source/about-osm-community/working-groups.md" repository="docs/en/about-osm-community/working-groups.md"/>
-        <mapping local="source/working-with-osm-data/contribute-osm-data.md" repository="docs/en/working-with-osm-data/contribute-osm-data.md"/>
-        <mapping local="source/working-with-osm-data/how-good-is-osm.md" repository="docs/en/working-with-osm-data/how-good-is-osm.md"/>
-        <mapping local="source/working-with-osm-data/research-with-osm.md" repository="docs/en/working-with-osm-data/research-with-osm.md"/>
-        <mapping local="source/working-with-osm-data/downloading-and-using.md" repository="docs/en/working-with-osm-data/downloading-and-using.md"/>
-        <mapping local="source/working-with-osm-data/humanitarian-campaign.md" repository="docs/en/working-with-osm-data/humanitarian-campaign.md"/>
-        <mapping local="source/working-with-osm-data/find-a-developer.md" repository="docs/en/working-with-osm-data/find-a-developer.md"/>
-        <mapping local="source/working-with-osm-data/index.md" repository="docs/en/working-with-osm-data/index.md"/>
+        <mapping local="source/ja/ja.yml" repository="docs/en/en.yml"/>
+        <mapping local="source/ja/index.md" repository="docs/en/how-to-give-back.md"/>
+        <mapping local="source/ja/how-to-give-back.md" repository="docs/en/how-to-give-back.md"/>
+        <mapping local="source/ja/what-is-openstreetmap.md" repository="docs/en/what-is-openstreetmap.md"/>
+        <mapping local="source/ja/who-is-openstreetmap.md" repository="docs/en/who-is-openstreetmap.md"/>
+        <mapping local="source/ja/why-openstreetmap.md" repository="docs/en/why-openstreetmap.md"/>
+        <mapping local="source/ja/about-osm-community/consumers.md" repository="docs/en/about-osm-community/consumers.md"/>
+        <mapping local="source/ja/about-osm-community/history-of-osm.md" repository="docs/en/about-osm-community/history-of-osm.md"/>
+        <mapping local="source/ja/about-osm-community/osm-foundation.md" repository="docs/en/about-osm-community/osm-foundation.md"/>
+        <mapping local="source/ja/about-osm-community/donate-to-osm.md" repository="docs/en/about-osm-community/donate-to-osm.md"/>
+        <mapping local="source/ja/about-osm-community/index.md" repository="docs/en/about-osm-community/index.md"/>
+        <mapping local="source/ja/about-osm-community/osm-news.md" repository="docs/en/about-osm-community/osm-news.md"/>
+        <mapping local="source/ja/about-osm-community/get-in-touch.md" repository="docs/en/about-osm-community/get-in-touch.md"/>
+        <mapping local="source/ja/about-osm-community/local-chapters.md" repository="docs/en/about-osm-community/local-chapters.md"/>
+        <mapping local="source/ja/about-osm-community/working-groups.md" repository="docs/en/about-osm-community/working-groups.md"/>
+        <mapping local="source/ja/working-with-osm-data/contribute-osm-data.md" repository="docs/en/working-with-osm-data/contribute-osm-data.md"/>
+        <mapping local="source/ja/working-with-osm-data/how-good-is-osm.md" repository="docs/en/working-with-osm-data/how-good-is-osm.md"/>
+        <mapping local="source/ja/working-with-osm-data/research-with-osm.md" repository="docs/en/working-with-osm-data/research-with-osm.md"/>
+        <mapping local="source/ja/working-with-osm-data/downloading-and-using.md" repository="docs/en/working-with-osm-data/downloading-and-using.md"/>
+        <mapping local="source/ja/working-with-osm-data/humanitarian-campaign.md" repository="docs/en/working-with-osm-data/humanitarian-campaign.md"/>
+        <mapping local="source/ja/working-with-osm-data/find-a-developer.md" repository="docs/en/working-with-osm-data/find-a-developer.md"/>
+        <mapping local="source/ja/working-with-osm-data/index.md" repository="docs/en/working-with-osm-data/index.md"/>
       </repository>
     </repositories>
     <source_dir>__DEFAULT__</source_dir>
