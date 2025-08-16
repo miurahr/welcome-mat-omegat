@@ -1,1 +1,4 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
+local chapter	地方支部
+Advisory Boar	諮問委員会
+State of the Map	State of the Map	固有名詞のため訳出しない。
