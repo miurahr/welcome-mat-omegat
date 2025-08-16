@@ -1,0 +1,68 @@
+name: Build and Deploy Documentation
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+        lfs: false
+
+    - name: Setup Git
+      run: |
+        git config --global user.email "miurahr@linux.com"
+        git config --global user.name "CI Docs Builder"
+
+    - name: Prepare Source
+      run: |
+        git config --global --add safe.directory $GITHUB_WORKSPACE
+        git clone --depth 1 https://github.com/osmfoundation/welcome-mat.git
+        cp -r docs/en/* source/
+        rm -rf welcome-mat
+
+    - name: Prepare OmegaT
+      run: |
+        curl https://okapiframework.org/binaries/omegat-plugin/okapiFiltersForOmegaT-1.13-1.45.0-dist.zip -o "okapi.zip"
+        mkdir -p build/omegat/plugins
+        unzip -pq okapi.zip '*/*.jar' > build/omegat/plugins/okapi.jar
+        ls -l build/omegat/plugins/
+        mkdir -p docs tm
+
+    - name: Setup Java
+      uses: actions/setup-java@v4
+      with:
+        distribution: 'temurin'
+        java-version: '17'
+
+    - name: Setup Gradle
+      uses: gradle/gradle-build-action@v2
+      with:
+        gradle-version: '8.5'
+
+    - name: Translate
+      run: |
+        gradle --no-daemon translate
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install MkDocs dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Build Documentation
+      run: |
+        mkdocs build --config-file mkdocs.yml --site-dir pages
+
+      git status
+        git commit -m "Update Docs ($(TZ=Asia/Tokyo date +'%d.%m.%Y %Z')) [SKIP CI]"
+        git push origin pages
