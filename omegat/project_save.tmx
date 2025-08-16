@@ -6,6 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;Air France&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084533Z" creationid="miurahr" creationdate="20250816T084533Z">
+        <seg>&lt;g1&gt;エールフランス航空&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Alaska Airlines&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084535Z" creationid="miurahr" creationdate="20250816T084535Z">
+        <seg>&lt;g1&gt;アラスカ航空&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Deutsche Bahn&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084537Z" creationid="miurahr" creationdate="20250816T084537Z">
+        <seg>&lt;g1&gt;ドイツ鉄道&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Government of France National Address Database&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084610Z" creationid="miurahr" creationdate="20250816T084610Z">
+        <seg>&lt;g1&gt;フランス政府の国籍住所データベース&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Italian Carabinieri&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084803Z" creationid="miurahr" creationdate="20250816T084803Z">
+        <seg>&lt;g1&gt;イタリアのカラビニエリ&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;OpenStreetMap&lt;/g1&gt;{:target="_blank"} is used by people all over the world – individuals, volunteers, companies, nonprofits, governments, organizations and more.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T083758Z" creationid="miurahr" creationdate="20250816T083758Z">
@@ -14,10 +54,194 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;Police Scotland&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084840Z" creationid="miurahr" creationdate="20250816T084810Z">
+        <seg>&lt;g1&gt;スコットランド警察&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Wikipedia and Wikimedia&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084525Z" creationid="miurahr" creationdate="20250816T084525Z">
+        <seg>&lt;g1&gt;ウィキペディアとウィキメディア&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Agence Française de Développement (French Development Agency)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084558Z" creationid="miurahr" creationdate="20250816T084558Z">
+        <seg>Agence Française de Développement (フランス開発庁)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And you can too!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084509Z" creationid="miurahr" creationdate="20250816T084509Z">
+        <seg>そして、あなたもできます!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>City of &lt;g1&gt;Belem, Brazil&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084600Z" creationid="miurahr" creationdate="20250816T084600Z">
+        <seg>&lt;g1&gt;ブラジル、ベレン&lt;/g1&gt;市{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>City of Jakarta, Indonesia Government</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084602Z" creationid="miurahr" creationdate="20250816T084602Z">
+        <seg>インドネシア政府ジャカルタ市</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>French Gendarmerie and Police</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084604Z" creationid="miurahr" creationdate="20250816T084604Z">
+        <seg>フランス憲兵隊と警察</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Geodata Software and Services</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084544Z" creationid="miurahr" creationdate="20250816T084544Z">
+        <seg>ジオデータソフトウェアおよびサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084555Z" creationid="miurahr" creationdate="20250816T084555Z">
+        <seg>政府</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government of Brazil, &lt;g1&gt;Environment Ministry&lt;/g1&gt;{:target="_blank"} and &lt;g2&gt;Planning Ministry&lt;/g2&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084607Z" creationid="miurahr" creationdate="20250816T084607Z">
+        <seg>ブラジル政府、&lt;g1&gt;環境省&lt;/g1&gt;{:target="_blank"}、&lt;g2&gt;計画省&lt;/g2&gt;{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government of Italy: &lt;g1&gt;President's Office&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084612Z" creationid="miurahr" creationdate="20250816T084612Z">
+        <seg>イタリア政府:&lt;g1&gt;大統領府&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government of Lesotho</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084615Z" creationid="miurahr" creationdate="20250816T084615Z">
+        <seg>レソト政府</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government of Lithuania</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084617Z" creationid="miurahr" creationdate="20250816T084617Z">
+        <seg>リトアニア政府</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government of Norway public transit agency</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084619Z" creationid="miurahr" creationdate="20250816T084619Z">
+        <seg>ノルウェー政府公共交通機関</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Government of Uruguay Ministry of Social Development</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084621Z" creationid="miurahr" creationdate="20250816T084621Z">
+        <seg>ウルグアイ政府社会開発省</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084428Z" creationid="miurahr" creationdate="20250816T084428Z">
         <seg>ここでは、OSMの消費者の幅広さを知るために、OpenStreetMapを使用しているいくつかの大きな組織を網羅的に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indonesian Disaster Management Agency</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084800Z" creationid="miurahr" creationdate="20250816T084800Z">
+        <seg>インドネシア災害庁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Krakow, Poland transit agency</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084805Z" creationid="miurahr" creationdate="20250816T084805Z">
+        <seg>クラクフ、ポーランドの交通機関</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Major Sites</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084511Z" creationid="miurahr" creationdate="20250816T084511Z">
+        <seg>主要サイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Malaga, Spain transit agency</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084806Z" creationid="miurahr" creationdate="20250816T084806Z">
+        <seg>スペイン、マラガのトランジットエージェンシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New York City, USA Government</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084808Z" creationid="miurahr" creationdate="20250816T084808Z">
+        <seg>米国ニューヨーク市政府</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SNCF (French rail agency)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084540Z" creationid="miurahr" creationdate="20250816T084540Z">
+        <seg>SNCF(フランスの鉄道機関)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Social Sites</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084527Z" creationid="miurahr" creationdate="20250816T084527Z">
+        <seg>ソーシャルサイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084503Z" creationid="miurahr" creationdate="20250816T084503Z">
+        <seg>また、OpenStreetMapを使用している中小企業、個人、個人プロジェクトも数多くあります。</seg>
       </tuv>
     </tu>
     <tu>
