@@ -4,6 +4,7 @@ extra_css:
 
 # custom target
 site_dir: pages
+site_url: https://miurahr.github.io/welcome-mat-omegat/
 
 # Start of MkDocs theme adjastments
 theme:
