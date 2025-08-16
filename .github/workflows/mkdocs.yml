@@ -26,10 +26,11 @@ jobs:
       run: |
         git config --global --add safe.directory $GITHUB_WORKSPACE
         git clone --depth 1 https://github.com/osmfoundation/welcome-mat.git
-        mkdir -p source docs tm
+        mkdir -p source docs tm overrides
         cp -r welcome-mat/docs/en/* source/
         cp -r welcome-mat/docs/assets docs/
         cp -r welcome-mat/docs/stylesheets docs/
+        cp -r welcome-mat/overrides/* overrides/
         rm -rf welcome-mat
 
     - name: Prepare OmegaT
