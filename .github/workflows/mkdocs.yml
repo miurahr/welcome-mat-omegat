@@ -62,7 +62,3 @@ jobs:
     - name: Build Documentation
       run: |
         mkdocs build --config-file mkdocs.yml --site-dir pages
-
-      git status
-        git commit -m "Update Docs ($(TZ=Asia/Tokyo date +'%d.%m.%Y %Z')) [SKIP CI]"
-        git push origin pages
