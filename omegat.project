@@ -5,7 +5,7 @@
       <repository type="git" url="https://github.com/miurahr/welcome-mat-omegat.git">
         <mapping local="/" repository="/"/>
       </repository>
-      <repository type="http" url="https://github.com/osmfoundation/welcome-mat/raw/master/">
+      <repository type="http" url="https://github.com/osmfoundation/welcome-mat/raw/main/">
         <mapping local="source/ja.yml" repository="docs/en/en.yml"/>
         <mapping local="source/index.md" repository="docs/en/how-to-give-back.md"/>
         <mapping local="source/how-to-give-back.md" repository="docs/en/how-to-give-back.md"/>
