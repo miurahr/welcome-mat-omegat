@@ -12,6 +12,22 @@
         <seg>&lt;g1&gt;OpenStreetMap&lt;/g1&gt;{:target="_blank"}は、個人、ボランティア、企業、非営利団体、政府、組織など、世界中の人々によって使用されています。</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084428Z" creationid="miurahr" creationdate="20250816T084428Z">
+        <seg>ここでは、OSMの消費者の幅広さを知るために、OpenStreetMapを使用しているいくつかの大きな組織を網羅的に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are many ways to use OpenStreetMap: as a basemap, using the OSM data for routing or navigation, using OSM data for GIS analysis, such as planning or logistics for humanitarian groups, utilities, governments and more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T084324Z" creationid="miurahr" creationdate="20250816T084324Z">
+        <seg>OpenStreetMap を使用するには、ベースマップとして、ルートやナビゲーションに OSM データを使用する、人道支援団体、公益事業、政府などの計画やロジスティクスなどの GIS 分析に OSM データを使用するなど、さまざまな方法があります。</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
