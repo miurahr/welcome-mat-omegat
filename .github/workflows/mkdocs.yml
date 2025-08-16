@@ -35,7 +35,7 @@ jobs:
       run: |
         git config --global --add safe.directory $GITHUB_WORKSPACE
         git clone --depth 1 https://github.com/osmfoundation/welcome-mat.git
-        mkdir -p source docs/ja tm overrides
+        mkdir -p source source/ja tm overrides
         cp -r welcome-mat/docs/en/* source/ja/
         # Prepare for mkdocs build
         cp -r welcome-mat/docs/en docs/
