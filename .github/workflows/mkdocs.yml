@@ -24,7 +24,10 @@ jobs:
       run: |
         git config --global --add safe.directory $GITHUB_WORKSPACE
         git clone --depth 1 https://github.com/osmfoundation/welcome-mat.git
-        cp -r docs/en/* source/
+        mkdir -p source docs tm
+        cp -r welcome-mat/docs/en/* source/
+        cp -r welcome-mat/docs/assets docs/
+        cp -r welcome-mat/stylesheets docs/
         rm -rf welcome-mat
 
     - name: Prepare OmegaT
@@ -33,7 +36,6 @@ jobs:
         mkdir -p build/omegat/plugins
         unzip -pq okapi.zip '*/*.jar' > build/omegat/plugins/okapi.jar
         ls -l build/omegat/plugins/
-        mkdir -p docs tm
 
     - name: Setup Java
       uses: actions/setup-java@v4
