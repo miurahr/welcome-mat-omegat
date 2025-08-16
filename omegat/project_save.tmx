@@ -6,6 +6,54 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;Advisory Board&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; a group that serves to advise the OSM Foundation Board of Directors, made up of official Local Chapters and Gold &amp; Platinum Corporate Members</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090530Z" creationid="miurahr" creationdate="20250816T090530Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;諮問委員会&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; OSM財団の理事会に助言するグループで、公式の地方支部とゴールド&amp;プラチナの企業メンバーで構成されています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;Corporate Members&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; corporate supporters of OpenStreetMap who donate different amounts of money to the OpenStreetMap Foundation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090405Z" creationid="miurahr" creationdate="20250816T090405Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;法人会員&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; OpenStreetMap 財団にさまざまな金額を寄付する OpenStreetMap の企業サポーター。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;Local Chapters&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; country-specific organizations that act on behalf of the OpenStreetMap Foundation, organising activities like OpenStreetMap editing projects, events and conferences in their areas.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090336Z" creationid="miurahr" creationdate="20250816T090336Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;Local Chapters&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; OpenStreetMap Foundation を代表して活動し、OpenStreetMap 編集プロジェクト、イベント、会議などの活動をそれぞれの地域で組織する国固有の組織です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;OSMF Board of Directors&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; seven members from around the world who serve as the key governance body of the OpenStreetMap Foundation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090320Z" creationid="miurahr" creationdate="20250816T090320Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;OSMF 理事会&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; OpenStreetMap Foundation の主要なガバナンス機関として機能する世界中から選ばれた 7 人のメンバーで構成されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;OSMF Members&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; members who have paid dues to join the OpenStreetMap Foundation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090349Z" creationid="miurahr" creationdate="20250816T090240Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;OSMF Members&lt;/g2&gt;{:target="_blank"}:&lt;/g1&gt; OpenStreetMap Foundationに参加するために会費を支払ったメンバーです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;&lt;g2&gt;Working Groups&lt;/g2&gt;:&lt;/g1&gt; groups organized by the OpenStreetMap Foundation that handle specific topics like operating the OSM servers, handling data issues, managing legal and licensing issues, running communications about OpenStreetMap, organizing the annual State of the Map conference and much more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090359Z" creationid="miurahr" creationdate="20250816T090359Z">
+        <seg>&lt;g1&gt;&lt;g2&gt;ワーキンググループ&lt;/g2&gt;:&lt;/g1&gt; OpenStreetMap Foundation が組織するグループで、OSM サーバーの運用、データ問題の処理、法的およびライセンスの問題の管理、OpenStreetMap に関するコミュニケーションの運営、年次 State of the Map カンファレンスの開催など、特定のトピックを扱います。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;Air France&lt;/g1&gt;{:target="_blank"}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084533Z" creationid="miurahr" creationdate="20250816T084533Z">
@@ -30,6 +78,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;Donations&lt;/g1&gt;{:target="_blank"} of any amount are also more than welcome.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085341Z" creationid="miurahr" creationdate="20250816T085341Z">
+        <seg>金額にかかわらず&lt;g1&gt;寄付&lt;/g1&gt;{:target="_blank"}も大歓迎です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Financial Times&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085207Z" creationid="miurahr" creationdate="20250816T085207Z">
+        <seg>&lt;g1&gt;フィナンシャル・タイムズ&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Google News&lt;/g1&gt;{:target="_blank"} is frequently updated with articles about OpenStreetMap, too.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090547Z" creationid="miurahr" creationdate="20250816T090547Z">
+        <seg>&lt;g1&gt;Google News&lt;/g1&gt;{:target="_blank"} も OpenStreetMap に関する記事で頻繁に更新されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;Government of France National Address Database&lt;/g1&gt;{:target="_blank"}</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084610Z" creationid="miurahr" creationdate="20250816T084610Z">
@@ -46,10 +118,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;OpenStreetMap&lt;/g1&gt;{:target="_blank"} is the largest open geographic database in the world, the data infrastructure for multitudes of mapping projects around the globe.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085231Z" creationid="miurahr" creationdate="20250816T085231Z">
+        <seg>&lt;g1&gt;OpenStreetMap&lt;/g1&gt;{:target="_blank"}は、世界最大のオープン地理データベースであり、世界中の多数のマッピングプロジェクトのデータインフラストラクチャです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g1&gt;OpenStreetMap&lt;/g1&gt;{:target="_blank"} is used by people all over the world – individuals, volunteers, companies, nonprofits, governments, organizations and more.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T083758Z" creationid="miurahr" creationdate="20250816T083758Z">
         <seg>&lt;g1&gt;OpenStreetMap&lt;/g1&gt;{:target="_blank"}は、個人、ボランティア、企業、非営利団体、政府、組織など、世界中の人々によって使用されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;OpenStreetMap&lt;/g1&gt;{:target="_blank"} was founded in the UK in 2004 by Steve Coast, and taken up by a community of map enthusiasts who wanted a free and open source of data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085937Z" creationid="miurahr" creationdate="20250816T085909Z">
+        <seg>&lt;g1&gt;OpenStreetMap&lt;/g1&gt;{:target="_blank"}は、2004年にスティーブ・コーストによって英国で開始され、無料でオープンなデータソースを求める地図愛好家のコミュニティによって発展してきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +158,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g1&gt;YouthMappers&lt;/g1&gt;{:target="_blank"}, an international network of student OpenStreetMap clubs</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085202Z" creationid="miurahr" creationdate="20250816T085202Z">
+        <seg>&lt;g1&gt;YouthMappers&lt;/g1&gt;{:target="_blank"}、学生のOpenStreetMapクラブの国際ネットワーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;g2&gt;number of companies&lt;/g2&gt;{:target="_blank"}, for example, are supporters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090851Z" creationid="miurahr" creationdate="20250816T090851Z">
+        <seg>たとえば、多くの&lt;g2&gt;企業&lt;/g2&gt;{:target="_blank"}がサポーターです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A donation to the OpenStreetMap Foundation will cover core operational expenses in supporting the OpenStreetMap project: hardware costs, legal fees, an administrative assistant and other expenses of our working groups and administration.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085239Z" creationid="miurahr" creationdate="20250816T085239Z">
+        <seg>OpenStreetMap Foundationへの寄付は、OpenStreetMapプロジェクトを支援するための主要な運営費、つまりハードウェア費用、弁護士費用、管理アシスタント、およびワーキンググループと管理のその他の費用をカバーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding data to OSM is quicker and easier than building your own system: you benefit from updates to the software, the ecosystem and collaborative maintenance and improvement of the data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090812Z" creationid="miurahr" creationdate="20250816T090808Z">
+        <seg>OSMにデータを追加することは、独自のシステムを構築するよりも迅速かつ簡単です:ソフトウェア、エコシステムの更新、データの共同メンテナンスと改善の恩恵を受けることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Administering the membership database</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090742Z" creationid="miurahr" creationdate="20250816T090742Z">
+        <seg>メンバーシップ・データベースの管理をします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Agence Française de Développement (French Development Agency)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084558Z" creationid="miurahr" creationdate="20250816T084558Z">
@@ -78,10 +206,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows an organisation to focus on its core data, rather than also maintaining geospatial data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090827Z" creationid="miurahr" creationdate="20250816T090827Z">
+        <seg>企業などが、独自に地理空間データを維持するのではなく、コアデータに集中できるようにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An organisation that applies for local chapter status should be sustainable financially, and should have a track record of OSM-related activities, either as an organisation or at least through their founding members.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090042Z" creationid="miurahr" creationdate="20250816T090042Z">
+        <seg>地方支部の地位を申請する組織は、財政的に持続可能であり、組織として、または少なくとも創設メンバーを通じて、OSM関連の活動の実績を持っている必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And you can too!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084509Z" creationid="miurahr" creationdate="20250816T084509Z">
         <seg>そして、あなたもできます!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Answering routine membership queries</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090755Z" creationid="miurahr" creationdate="20250816T090755Z">
+        <seg>日常的なメンバーシップの質問への回答が業務になります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a decentralized project, there are many different ways to get in touch with the OpenStreetMap community, it depends on what you want to ask about.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085650Z" creationid="miurahr" creationdate="20250816T085650Z">
+        <seg>分散型プロジェクトとして、OpenStreetMapコミュニティと連絡を取るにはさまざまな方法がありますが、それはあなたが何を尋ねたいかによって異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Becoming a &lt;g1&gt;member or supporter&lt;/g1&gt; helps contribute to the sustainability of the project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090848Z" creationid="miurahr" creationdate="20250816T090848Z">
+        <seg>&lt;g1&gt;メンバーまたはサポーター&lt;/g1&gt;になることは、プロジェクトの持続可能性に貢献するのに役立ちます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Broader social good of contributing to a global map</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090837Z" creationid="miurahr" creationdate="20250816T090837Z">
+        <seg>グローバルマップに貢献することによるより広範な社会的利益をえられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cambridge University</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085154Z" creationid="miurahr" creationdate="20250816T085154Z">
+        <seg>ケンブリッジ大学</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +286,150 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clinton Health Access Initiative</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085121Z" creationid="miurahr" creationdate="20250816T085121Z">
+        <seg>クリントン・ヘルス・アクセス・イニシアティブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Communication Working Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090612Z" creationid="miurahr" creationdate="20250816T090612Z">
+        <seg>コミュニケーションワーキンググループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conferences</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085635Z" creationid="miurahr" creationdate="20250816T085635Z">
+        <seg>カンファレンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributing imagery or other data such as GPS traces or your GIS data can help improve the map for all and provide a means for the community to use that information to collect new data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T091323Z" creationid="miurahr" creationdate="20250816T091323Z">
+        <seg>画像や GPS トレースや GIS データなどのその他のデータを提供することで、すべての人のマップを改善し、コミュニティがその情報を使用して新しいデータを収集する手段を提供できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corporate members of Silver and higher levels have a seat on the &lt;g1&gt;OSMF Advisory Board&lt;/g1&gt;{:target="_blank"}, which serves to advise the OSMF Board of Directors.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085310Z" creationid="miurahr" creationdate="20250816T085310Z">
+        <seg>シルバー以上のレベルの企業メンバーは、OSMF理事会に助言する役割を果たす&lt;g1&gt;OSMF諮問委員会&lt;/g1&gt;{:target="_blank"}の議席を持っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corporate membership</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085249Z" creationid="miurahr" creationdate="20250816T085249Z">
+        <seg>法人会員</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corporate membership tiers start at €500 for the Supporter level and go up to €20,000 or more annually for the Platinum level.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085303Z" creationid="miurahr" creationdate="20250816T085303Z">
+        <seg>法人会員レベルは、サポーターレベルでは500ユーロから始まり、プラチナレベルでは年間20,000ユーロ以上まで上がります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Data Working Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090607Z" creationid="miurahr" creationdate="20250816T090607Z">
+        <seg>データワーキンググループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085316Z" creationid="miurahr" creationdate="20250816T085316Z">
+        <seg>寄付</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Donations to Local Chapters benefit their work supporting the OpenStreetMap project and community at the local level.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085410Z" creationid="miurahr" creationdate="20250816T085410Z">
+        <seg>地方支部への寄付は、地域レベルでのOpenStreetMapプロジェクトとコミュニティを支援する活動に役立てられます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Donations to Local Chapters may be tax-exempt, depending on local tax law.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085623Z" creationid="miurahr" creationdate="20250816T085413Z">
+        <seg>地方支部への寄付は、地域によっては非課税となる場合があります(訳注：日本では、インボイス登録のない非営利徹底型一般社団法人のため税優遇はありません)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each tier comes with a number of additional benefits.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085305Z" creationid="miurahr" creationdate="20250816T085305Z">
+        <seg>各層には、多くの追加特典が付いています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Education</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085153Z" creationid="miurahr" creationdate="20250816T085153Z">
+        <seg>教育</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Engaging and assisting developers to develop OSM software.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090657Z" creationid="miurahr" creationdate="20250816T090657Z">
+        <seg>開発者がOSMソフトウェアを開発するよう関与し、支援しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Engineering Working Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090653Z" creationid="miurahr" creationdate="20250816T090653Z">
+        <seg>エンジニアリングワーキンググループm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, inquire with the Local Chapter directly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085423Z" creationid="miurahr" creationdate="20250816T085423Z">
+        <seg>詳しくは、地方支部に直接お問い合わせください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a local hackerspace in the capital or a group of students from a university might not be the best-suited groups to form a local chapter because they tend to lack the inclusivity and reach we are looking for.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090212Z" creationid="miurahr" creationdate="20250816T090028Z">
+        <seg>たとえば、首都の地元のハッカースペースや大学の学生のグループは、私たちが求めている包括性とリーチに欠ける傾向があるため、地方支部を結成するのに最適なグループではない可能性があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this, we need your support.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085246Z" creationid="miurahr" creationdate="20250816T085246Z">
+        <seg>そのためには、皆様のご支援が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French Gendarmerie and Police</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084604Z" creationid="miurahr" creationdate="20250816T084604Z">
@@ -110,10 +438,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gates Foundation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085130Z" creationid="miurahr" creationdate="20250816T085130Z">
+        <seg>ゲイツ財団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Generally, a group that applies for local chapter status in a country is expected to represent the OSM community in the whole country, and membership must be available to everyone in the country.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090021Z" creationid="miurahr" creationdate="20250816T090021Z">
+        <seg>一般的に、ある国の地方支部の地位を申請するグループは、国全体のOSMコミュニティを代表することが期待されており、メンバーシップは国内の誰もが利用できる必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Geodata Software and Services</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084544Z" creationid="miurahr" creationdate="20250816T084544Z">
         <seg>ジオデータソフトウェアおよびサービス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>George Washington University</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085155Z" creationid="miurahr" creationdate="20250816T085155Z">
+        <seg>ジョージワシントン大学</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +526,146 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Handling issues relating to the current license for OSM data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090605Z" creationid="miurahr" creationdate="20250816T090557Z">
+        <seg>OSMデータの現在のライセンスに関する問題の対応をおこないます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Heidelberg University</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085155Z" creationid="miurahr" creationdate="20250816T085155Z">
+        <seg>ハイデルベルク大学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Helping to set policy on data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090611Z" creationid="miurahr" creationdate="20250816T090611Z">
+        <seg>データに関するポリシーの設定を支援します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here are some &lt;g1&gt;general guidelines&lt;/g1&gt;{:target="_blank"} for contributing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090841Z" creationid="miurahr" creationdate="20250816T090841Z">
+        <seg>貢献するための&lt;g1&gt;一般的なガイドライン&lt;/g1&gt;{:target="_blank"}をいくつか紹介します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here is &lt;g1&gt;more information&lt;/g1&gt; about donating to OSM.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085904Z" creationid="miurahr" creationdate="20250816T085812Z">
+        <seg>OSMへの寄付については、&lt;g1&gt;こちら&lt;/g1&gt;をご覧ください。日本支部の協賛に興味のあるかたは、[OSMFJ](https://www.osmf.jp)をごらんください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a non-exhaustive list of some big organizations that use OpenStreetMap, to give you an idea of the breadth of OSM consumers.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084428Z" creationid="miurahr" creationdate="20250816T084428Z">
         <seg>ここでは、OSMの消費者の幅広さを知るために、OpenStreetMapを使用しているいくつかの大きな組織を網羅的に示します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here is more information about &lt;g3&gt;becoming a corporate member&lt;/g3&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090453Z" creationid="miurahr" creationdate="20250816T090407Z">
+        <seg>検討いただける場合は、&lt;g3&gt;法人会員になる方法&lt;/g3&gt;{:target="_blank"}をごらんください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Humanitarian Sector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085118Z" creationid="miurahr" creationdate="20250816T085118Z">
+        <seg>人道支援部門</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an OSM Local Chapter exists in your jurisdiction, you may also want to consider donating to them directly.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085401Z" creationid="miurahr" creationdate="20250816T085351Z">
+        <seg>あなたの管轄区域にOSM地方支部が存在する場合は、直接寄付することも検討してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are interested in becoming a Corporate Member or learning more about donating, please get in touch with the OSM Foundation Board of Directors at &lt;g1&gt;board(at)osmfoundation.org&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085314Z" creationid="miurahr" creationdate="20250816T085314Z">
+        <seg>法人会員になることに興味がある場合、または寄付について詳しく知りたい場合は、&lt;g1&gt;OSM Foundation 理事会 (board(at)osmfoundation.org&lt;/g1&gt;) までお問い合わせください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are interested in contributing or donating to OpenStreetMap, or for any other questions, please get in touch with the OSM Foundation Board of Directors at &lt;g1&gt;board(at)osmfoundation.org&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085820Z" creationid="miurahr" creationdate="20250816T085820Z">
+        <seg>OpenStreetMapへの貢献や寄付に興味がある場合、またはその他の質問がある場合は、OSM財団の理事会(&lt;g1&gt;board(at)osmfoundation.org&lt;/g1&gt;)までお問い合わせください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are part of a company or organization, a great way to support OpenStreetMap financially is by becoming a &lt;g1&gt;Corporate Member&lt;/g1&gt;{:target="_blank"} of the OpenStreetMap Foundation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085255Z" creationid="miurahr" creationdate="20250816T085255Z">
+        <seg>あなたが企業や組織の一員である場合、OpenStreetMapを経済的に支援する素晴らしい方法は、OpenStreetMap財団の&lt;g1&gt;法人会員&lt;/g1&gt;{:target="_blank"}になることです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are thinking about importing an existing data set, &lt;g2&gt;read our import guidelines closely&lt;/g2&gt;{:target="_blank"} and particularly note &lt;g3&gt;license compatibility&lt;/g3&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090844Z" creationid="miurahr" creationdate="20250816T090844Z">
+        <seg>既存のデータセットのインポートを検討している場合は、インポートガイドライン{:target="_blank"}を&lt;g2&gt;よく読み、&lt;/g2&gt;&lt;g3&gt;特にライセンスの互換性&lt;/g3&gt;{:target="_blank"}に注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need more help with contacting communities, try the &lt;g1&gt;OSM contact channels&lt;/g1&gt;{:target="_blank"} page.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085701Z" creationid="miurahr" creationdate="20250816T085701Z">
+        <seg>コミュニティへの連絡についてさらにサポートが必要な場合は、&lt;g1&gt;OSM の連絡先チャネル&lt;/g1&gt;{:target="_blank"} ページをお試しください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to talk with the community in a specific country or region, please consult the &lt;g1&gt;OSM Wiki&lt;/g1&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085810Z" creationid="miurahr" creationdate="20250816T085656Z">
+        <seg>特定の国や地域のコミュニティと話したい場合は、&lt;g1&gt;OSM Wiki&lt;/g1&gt;{:target="_blank"}を参照してください(訳注：日本のコミュニティは https://openstreetmap.jp/ にアクセス方法が記載されています)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 2006, the &lt;g1&gt;OpenStreetMap Foundation&lt;/g1&gt; was established to encourage the growth, development and distribution of free geospatial data and provide geospatial data for anybody to use and share.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085948Z" creationid="miurahr" creationdate="20250816T085948Z">
+        <seg>2006年、無料の地理空間データの成長、開発、配布を奨励し、誰もが使用および共有できる地理空間データを提供するために、&lt;g1&gt;OpenStreetMap Foundation&lt;/g1&gt;が設立されました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In 2012, OpenStreetMap switched to licensing data under the &lt;g2&gt;Open Database License&lt;/g2&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085953Z" creationid="miurahr" creationdate="20250816T085953Z">
+        <seg>2012年、OpenStreetMapは&lt;g2&gt;Open Database License&lt;/g2&gt;{:target="_blank"}に基づくデータのライセンスに切り替えました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increasing OSMF Membership</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090800Z" creationid="miurahr" creationdate="20250816T090800Z">
+        <seg>OSMFメンバーの増加をはかります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +678,82 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instead, a formal group should only be set up once there is a certain amount of OSM activities, from a diverse group of people in the country, who can then together found the organisation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090013Z" creationid="miurahr" creationdate="20250816T090013Z">
+        <seg>代わりに、正式なグループは、国内の多様な人々のグループから一定量のOSM活動があり、一緒に組織を設立できる場合にのみ設立されるべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>International Federation of Red Cross and Red Crescent Societies (IFRC), International Committee of Red Cross (ICRC), and National Societies (e.g. American Red Cross, Bangladesh Red Crescent Society, British Red Cross, Canadian Red Cross, Netherlands Red Cross, and more)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085133Z" creationid="miurahr" creationdate="20250816T085133Z">
+        <seg>国際赤十字・赤新月社連盟(IFRC)、国際赤十字委員会(ICRC)、各国協会(アメリカ赤十字社、バングラデシュ赤新月社、英国赤十字社、カナダ赤十字社、オランダ赤十字社など)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It has since grown to more than 1 million contributors around the world: individual volunteers, map enthusiast, GIS and geography data specialists, companies that use map data, humanitarian organizations, government agencies and more.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085913Z" creationid="miurahr" creationdate="20250816T085913Z">
+        <seg>それ以来、個人ボランティア、地図愛好家、GIS および地理データの専門家、地図データを使用する企業、人道支援団体、政府機関など、世界中で 100 万人以上の貢献者に成長しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is made up of a number of different members and groups.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090234Z" creationid="miurahr" creationdate="20250816T090234Z">
+        <seg>それは多くの異なるメンバーとグループで構成されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Krakow, Poland transit agency</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084805Z" creationid="miurahr" creationdate="20250816T084805Z">
         <seg>クラクフ、ポーランドの交通機関</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Licensing Working Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090555Z" creationid="miurahr" creationdate="20250816T090555Z">
+        <seg>ライセンスワーキンググループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Chapters are officially registered nonprofit organizations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090341Z" creationid="miurahr" creationdate="20250816T090341Z">
+        <seg>地方支部は正式に登録された非営利団体です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local chapters</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085349Z" creationid="miurahr" creationdate="20250816T085349Z">
+        <seg>地方支部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local chapters must be nonprofit organisations dedicated to supporting the aims of the OpenStreetMap Foundation and the OpenStreetMap project.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090018Z" creationid="miurahr" creationdate="20250816T090018Z">
+        <seg>地方支部は、OpenStreetMap FoundationとOpenStreetMapプロジェクトの目的を支援することに専念する非営利団体でなければなりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maintaining &lt;g1&gt;blog.openstreetmap.org&lt;/g1&gt;{:target="_blank"} and OpenStreetMap accounts on &lt;g2&gt;Twitter&lt;/g2&gt;{:target="_blank"} and &lt;g3&gt;Facebook&lt;/g3&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090616Z" creationid="miurahr" creationdate="20250816T090616Z">
+        <seg>&lt;g2&gt;Twitter&lt;/g2&gt;{:target="_blank"}とFacebook{:target="_blank"}で &lt;g1&gt;blog.openstreetmap.org&lt;/g1&gt;{:target="_blank"}と&lt;g3&gt;OpenStreetMap&lt;/g3&gt;アカウントを維持します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,10 +766,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Making announcements and project news written with the official "voice of the foundation"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090626Z" creationid="miurahr" creationdate="20250816T090626Z">
+        <seg>公式の「財団の声」で書かれた発表やプロジェクトニュースを発行しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Malaga, Spain transit agency</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084806Z" creationid="miurahr" creationdate="20250816T084806Z">
         <seg>スペイン、マラガのトランジットエージェンシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Membership Working Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090739Z" creationid="miurahr" creationdate="20250816T090739Z">
+        <seg>メンバーシップワーキンググループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Médecins Sans Frontières/Doctors Without Borders</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085142Z" creationid="miurahr" creationdate="20250816T085142Z">
+        <seg>国境なき医師団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>National Geographic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085213Z" creationid="miurahr" creationdate="20250816T085213Z">
+        <seg>ナショナルジオグラフィック</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,10 +814,178 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New York Times</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085214Z" creationid="miurahr" creationdate="20250816T085214Z">
+        <seg>ニューヨーク・タイムズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>News and Media</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085204Z" creationid="miurahr" creationdate="20250816T085204Z">
+        <seg>ニュースとメディア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that many countries do not have an officially chartered Chapter, but still have active editing.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090356Z" creationid="miurahr" creationdate="20250816T090356Z">
+        <seg>多くの国には公式に認可された支部はありませんが、編集が活発に行われていることに注意してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Numerous films and TV shows such as &lt;g1&gt;Blade Runner 2049&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085224Z" creationid="miurahr" creationdate="20250816T085224Z">
+        <seg>&lt;g1&gt;ブレードランナー2049&lt;/g1&gt;などの多数の映画やテレビ番組</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OSM has official social media channels at &lt;g1&gt;https://twitter.com/openstreetmap&lt;/g1&gt;{:target="_blank"} and &lt;g2&gt;https://www.facebook.com/OpenStreetMap/&lt;/g2&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090539Z" creationid="miurahr" creationdate="20250816T090539Z">
+        <seg>OSMには &lt;g1&gt;https://twitter.com/openstreetmap&lt;/g1&gt;{:target="_blank"}と &lt;g2&gt;https://www.facebook.com/OpenStreetMap/&lt;/g2&gt;{:target="_blank"}という公式ソーシャルメディアチャンネルがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OSM is a shared platform to contribute and collaborate with others</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090831Z" creationid="miurahr" creationdate="20250816T090831Z">
+        <seg>OSMは、他の人と貢献し、協力するための共有プラットフォームです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OSM runs a lean operation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085241Z" creationid="miurahr" creationdate="20250816T085241Z">
+        <seg>OSM はリーン操作を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the community of OpenStreetMap contributors in an area is mature enough to warrant the creation of a national (or regional) organisation, they can set up a formal group and apply to be recognized as a local chapter of the OpenStreetMap Foundation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090003Z" creationid="miurahr" creationdate="20250816T090003Z">
+        <seg>ある地域の OpenStreetMap 貢献者のコミュニティが、国 (または地域) 組織の創設を正当化できるほど成熟したら、正式なグループを設立し、OpenStreetMap Foundation の地方支部として認められるよう申請することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenStreetMap is not a closely governed or managed project; grassroots activities are the core of the movement, and individuals participating in OpenStreetMap enjoy great freedom.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090229Z" creationid="miurahr" creationdate="20250816T090229Z">
+        <seg>OpenStreetMapは厳密に管理または管理されたプロジェクトではありません。草の根活動は運動の中核であり、OpenStreetMapに参加する個人は大きな自由を享受しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Operations Working Group</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090645Z" creationid="miurahr" creationdate="20250816T090645Z">
+        <seg>オペレーションワーキンググループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Or just try searching the web or social media for OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090548Z" creationid="miurahr" creationdate="20250816T090548Z">
+        <seg>または、WebまたはソーシャルメディアでOpenStreetMapを検索してみてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Organizing and executing the annual worldwide OpenStreetMap Foundation Conference, "State of the Map"</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090738Z" creationid="miurahr" creationdate="20250816T090728Z">
+        <seg>毎年恒例の世界的なOpenStreetMap Foundationカンファレンス「State of the Map」を開催します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overseeing design and content on &lt;g1&gt;osmfoundation.org&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090634Z" creationid="miurahr" creationdate="20250816T090634Z">
+        <seg>&lt;g1&gt;osmfoundation.org&lt;/g1&gt;{:target="_blank"}のデザインとコンテンツを監督します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pan American Development Foundation</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085144Z" creationid="miurahr" creationdate="20250816T085144Z">
+        <seg>汎米開発財団</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Planning and maintenance of the OSM API and servers.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090651Z" creationid="miurahr" creationdate="20250816T090646Z">
+        <seg>OSM APIとサーバーの計画と保守をしています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plus many many, large, medium and small businesses and organizations around the world!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085226Z" creationid="miurahr" creationdate="20250816T085226Z">
+        <seg>さらに、世界中の多くの大企業、中堅企業、中小企業や組織が参加しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portland, Oregon, USA transit agency</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085109Z" creationid="miurahr" creationdate="20250816T085109Z">
+        <seg>米国オレゴン州ポートランドの交通機関</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rennes, France transit agency</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085110Z" creationid="miurahr" creationdate="20250816T085110Z">
+        <seg>レンヌ、フランス交通機関</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolving issues about copyright violations, data disputes, vandalism, and automated edits beyond the normal means of the community.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090609Z" creationid="miurahr" creationdate="20250816T090609Z">
+        <seg>著作権侵害、データ紛争、荒らし、コミュニティの通常の手段を超えた自動編集に関する問題を解決します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Responding to press contacts.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090643Z" creationid="miurahr" creationdate="20250816T090630Z">
+        <seg>報道関係者への対応もおこないます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SNCF (French rail agency)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084540Z" creationid="miurahr" creationdate="20250816T084540Z">
         <seg>SNCF(フランスの鉄道機関)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;g1&gt;missingmaps.org&lt;/g1&gt;{:target="_blank"} for more humanitarian OSM partners</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085151Z" creationid="miurahr" creationdate="20250816T085151Z">
+        <seg>OSMの人道的パートナーについては、&lt;g1&gt;missingmaps.org&lt;/g1&gt;{:target="_blank"}を参照してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +998,126 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>State of the Map Organizing Committee</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090725Z" creationid="miurahr" creationdate="20250816T090658Z">
+        <seg>State of the Map 実行委員会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics Canada</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085112Z" creationid="miurahr" creationdate="20250816T085112Z">
+        <seg>カナダ統計局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Texas Tech University</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085156Z" creationid="miurahr" creationdate="20250816T085156Z">
+        <seg>テキサス工科大学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;g1&gt;Working Groups&lt;/g1&gt; may cover your question if it’s about a specific topic such as licensing or press inquiries.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085653Z" creationid="miurahr" creationdate="20250816T085653Z">
+        <seg>&lt;g1&gt;ワーキンググループ&lt;/g1&gt;は、ライセンスや報道機関からの問い合わせなど、特定のトピックに関する質問をカバーする場合があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Local Chapter application process is described &lt;g1&gt;here&lt;/g1&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090137Z" creationid="miurahr" creationdate="20250816T090049Z">
+        <seg>地方支部の申請プロセスについては、&lt;g1&gt;こちら&lt;/g1&gt;{:target="_blank"}で説明します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090554Z" creationid="miurahr" creationdate="20250816T090554Z">
+        <seg>OSM財団ワーキンググループは、OpenStreetMapのさまざまな側面を管理・運営するボランティアです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OpenStreetMap Foundation is a registered non-profit in the United Kingdom.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085347Z" creationid="miurahr" creationdate="20250816T085347Z">
+        <seg>OpenStreetMap Foundation は、英国で登録された非営利団体です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OpenStreetMap Foundation is happy to talk to groups who do not yet meet the requirements set out above for a local chapter, and work with them to become a local chapter in the future.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090117Z" creationid="miurahr" creationdate="20250816T090117Z">
+        <seg>OpenStreetMap Foundationは、上記の地方支部の要件をまだ満たしていないグループと喜んで話し合い、将来的に地方支部になるために協力します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OpenStreetMap Foundation is the nonprofit organization that supports OpenStreetMap and provides the necessary organizational backbone.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090232Z" creationid="miurahr" creationdate="20250816T090232Z">
+        <seg>OpenStreetMap Foundationは、OpenStreetMapをサポートし、必要な組織のバックボーンを提供する非営利団体です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OpenStreetMap Foundation relies on revenue from individual and corporate membership dues, profits generated by the annual State of the Map conferences, and donations.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085243Z" creationid="miurahr" creationdate="20250816T085243Z">
+        <seg>OpenStreetMap Foundationは、個人および法人の会費からの収益、毎年恒例のState of the Map会議によって生み出された利益、および寄付に依存しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The annual international OpenStreetMap conference is called &lt;g1&gt;State of the Map&lt;/g1&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085640Z" creationid="miurahr" creationdate="20250816T085640Z">
+        <seg>毎年恒例の国際OpenStreetMap会議は、&lt;g1&gt;State of the Map&lt;/g1&gt;{:target="_blank"}と呼ばれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The official blog is at &lt;g1&gt;https://blog.openstreetmap.org/&lt;/g1&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090543Z" creationid="miurahr" creationdate="20250816T090543Z">
+        <seg>公式ブログは &lt;g1&gt;https://blog.openstreetmap.org/&lt;/g1&gt;{:target="_blank"}にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sequence is key though – creating a formal group is never the first step for OSM activities in a country.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090006Z" creationid="miurahr" creationdate="20250816T090006Z">
+        <seg>しかし、正式なグループを作ることは、ある国でのOSM活動の最初のステップではありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are a variety of OpenStreetMap conferences, and ticket revenues help sustain the community.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085637Z" creationid="miurahr" creationdate="20250816T085637Z">
+        <seg>OpenStreetMap にはさまざまなカンファレンスがあり、チケット収入はコミュニティの維持に役立っています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are also many &lt;g2&gt;regional&lt;/g2&gt;{:target="_blank"} State of the Map conferences.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085646Z" creationid="miurahr" creationdate="20250816T085646Z">
+        <seg>また、&lt;g2&gt;地域的な&lt;/g2&gt;{:target="_blank"} State of the Mapカンファレンスも数多くあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are also many medium and small businesses, individuals and personal projects that use OpenStreetMap.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084503Z" creationid="miurahr" creationdate="20250816T084503Z">
@@ -246,10 +1126,194 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are hundreds of articles and blog posts about OSM.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090550Z" creationid="miurahr" creationdate="20250816T090550Z">
+        <seg>OSMに関する記事やブログ記事は何百もあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are many ways to find out what’s new with OpenStreetMap.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090533Z" creationid="miurahr" creationdate="20250816T090533Z">
+        <seg>OpenStreetMapの新機能を知る方法はたくさんあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are many ways to use OpenStreetMap: as a basemap, using the OSM data for routing or navigation, using OSM data for GIS analysis, such as planning or logistics for humanitarian groups, utilities, governments and more.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T084324Z" creationid="miurahr" creationdate="20250816T084324Z">
         <seg>OpenStreetMap を使用するには、ベースマップとして、ルートやナビゲーションに OSM データを使用する、人道支援団体、公益事業、政府などの計画やロジスティクスなどの GIS 分析に OSM データを使用するなど、さまざまな方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are several ways to financially support the project:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085247Z" creationid="miurahr" creationdate="20250816T085247Z">
+        <seg>プロジェクトを財政的に支援するには、いくつかの方法があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is an independent weekly newsletter at &lt;g1&gt;http://www.weeklyosm.eu&lt;/g1&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090545Z" creationid="miurahr" creationdate="20250816T090545Z">
+        <seg>&lt;g1&gt;http://www.weeklyosm.eu&lt;/g1&gt;{:target="_blank"}に独立した週刊ニュースレターがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can vote on the OpenStreetMap Foundation Board of Directors and give their opinions on board matters.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090252Z" creationid="miurahr" creationdate="20250816T090252Z">
+        <seg>OpenStreetMap Foundationの理事会選挙に投票し、理事会の問題について意見を述べることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see more examples of uses of OpenStreetMap, see our &lt;g1&gt;weekly featured images&lt;/g1&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085228Z" creationid="miurahr" creationdate="20250816T085228Z">
+        <seg>OpenStreetMapの使用例をもっと見るには、&lt;g1&gt;毎週のアイキャッチ画像&lt;/g1&gt;{:target="_blank"}をご覧ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>US National Park Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085115Z" creationid="miurahr" creationdate="20250816T085115Z">
+        <seg>米国国立公園局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>US News &amp; World Report</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085217Z" creationid="miurahr" creationdate="20250816T085217Z">
+        <seg>US News &amp; World レポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>US State Department, USAID, Peace Corps</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085116Z" creationid="miurahr" creationdate="20250816T085116Z">
+        <seg>米国国務省、USAID、平和部隊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uganda Bureau of Statistics</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085113Z" creationid="miurahr" creationdate="20250816T085113Z">
+        <seg>ウガンダ統計局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>United Nations</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085146Z" creationid="miurahr" creationdate="20250816T085146Z">
+        <seg>国際連合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>University of Maryland</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085157Z" creationid="miurahr" creationdate="20250816T085157Z">
+        <seg>メリーランド大学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wall Street Journal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085219Z" creationid="miurahr" creationdate="20250816T085219Z">
+        <seg>ウォール・ストリート・ジャーナル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Washington Post</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085221Z" creationid="miurahr" creationdate="20250816T085221Z">
+        <seg>ワシントンポスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We must keep our income sources diversified, as these vary from year to year, but our modest needs stay the same.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085244Z" creationid="miurahr" creationdate="20250816T085244Z">
+        <seg>収入源は年によって異なるため、私たちは多様化しなければなりませんが、私たちのささやかなニーズは変わりません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We're also expecting local chapters to have democratic structures so that the OSM community members who join the group can decide in the local chapter's affairs.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090032Z" creationid="miurahr" creationdate="20250816T090032Z">
+        <seg>また、グループに参加するOSMコミュニティのメンバーが地方支部の事務を決定できるように、地方支部が民主的な構造を持つことを期待しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What other ways can we contribute?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090846Z" creationid="miurahr" creationdate="20250816T090846Z">
+        <seg>他にどのような貢献ができるでしょうか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When evaluating a local chapter application, the OSM Foundation will not look at what the chapter is planning to do, but at what they have done already!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090150Z" creationid="miurahr" creationdate="20250816T090047Z">
+        <seg>ローカルチャプターの申請を評価する際、OSM財団は支部の候補が何を計画しているのかではなく、すでに何を行っているのかを調べます!。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While it is possible for a local chapter to be part of an existing entity rather than a separate organisation, such a local chapter would have to demonstrate how the OSM community members can make decisions without being unduly controlled by the parent organisation.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090204Z" creationid="miurahr" creationdate="20250816T090037Z">
+        <seg>地方支部が独立した組織ではなく既存のエンティティの一部になることは可能ですが、そのような組織は、OSMコミュニティのメンバーが親組織によって不当に管理されることなく意思決定を行う方法を実証する必要があります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why should an organization contribute data to OpenStreetMap?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090803Z" creationid="miurahr" creationdate="20250816T090803Z">
+        <seg>なぜ組織がOpenStreetMapにデータを投稿する必要があるのですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>World Bank</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085148Z" creationid="miurahr" creationdate="20250816T085148Z">
+        <seg>世界銀行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find them at the &lt;g1&gt;OSM Wiki&lt;/g1&gt;{:target="_blank"}</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T085633Z" creationid="miurahr" creationdate="20250816T085532Z">
+        <seg>地方支部の一覧は&lt;g1&gt;OSM Wiki&lt;/g1&gt;{:target="_blank"} で見つけることができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can join &lt;g3&gt;here&lt;/g3&gt;{:target="_blank"}.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250816T090255Z" creationid="miurahr" creationdate="20250816T090255Z">
+        <seg>&lt;g3&gt;ここから&lt;/g3&gt;参加できます{:target="_blank"}。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
