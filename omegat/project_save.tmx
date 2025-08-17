@@ -254,10 +254,66 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A brief introduction to OpenStreetMap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012530Z" creationid="miurahr" creationdate="20250817T012530Z">
+        <seg>OpenStreetMap の簡単な紹介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A donation to the OpenStreetMap Foundation will cover core operational expenses in supporting the OpenStreetMap project: hardware costs, legal fees, an administrative assistant and other expenses of our working groups and administration.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T085239Z" creationid="miurahr" creationdate="20250816T085239Z">
         <seg>OpenStreetMap Foundationへの寄付は、OpenStreetMapプロジェクトを支援するための主要な運営費、つまりハードウェア費用、弁護士費用、管理アシスタント、およびワーキンググループと管理のその他の費用をカバーします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A group of people comparing data collected during an OpenStreetMap field survey</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012647Z" creationid="miurahr" creationdate="20250817T012647Z">
+        <seg>OpenStreetMap の現地調査中に収集されたデータを比較する人々のグループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A group of people posing on stairs after completing a mapping workshop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012549Z" creationid="miurahr" creationdate="20250817T012549Z">
+        <seg>マッピングワークショップを終えた後、階段でポーズをとる人々のグループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A group of researchers surveying the surroundings while collecting data for mapping and taking notes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012542Z" creationid="miurahr" creationdate="20250817T012542Z">
+        <seg>周囲を調査しながら、マッピングやメモを取るためのデータを収集する研究者グループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A group photo with participants of the SotM US conference</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012419Z" creationid="miurahr" creationdate="20250817T012419Z">
+        <seg>SotM米国カンファレンスの参加者との集合写真</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A person working on a laptop computer, editing OpenStreetMap data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012637Z" creationid="miurahr" creationdate="20250817T012637Z">
+        <seg>ラップトップコンピュータで作業し、OpenStreetMapデータを編集している人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>About the OSM Community</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012410Z" creationid="miurahr" creationdate="20250817T012410Z">
+        <seg>OSMコミュニティについて</seg>
       </tuv>
     </tu>
     <tu>
@@ -743,6 +799,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Getting in touch, history, joining and more…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012411Z" creationid="miurahr" creationdate="20250817T012411Z">
+        <seg>連絡、履歴、参加など...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Giving Back</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T233806Z" creationid="miurahr" creationdate="20250816T233806Z">
@@ -919,6 +983,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can you or your organization contribute to OSM?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012256Z" creationid="miurahr" creationdate="20250817T012256Z">
+        <seg>あなたやあなたの組織はOSMにどのように貢献できますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How good is OSM data?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T093619Z" creationid="miurahr" creationdate="20250816T093619Z">
@@ -927,10 +999,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How to get in touch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012328Z" creationid="miurahr" creationdate="20250817T012328Z">
+        <seg>連絡する方法は?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to get in touch?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T093610Z" creationid="miurahr" creationdate="20250816T093610Z">
         <seg>連絡する方法は?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to give back?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012251Z" creationid="miurahr" creationdate="20250817T012251Z">
+        <seg>恩返しの方法は?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to use, research and edit OSM…</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012622Z" creationid="miurahr" creationdate="20250817T012622Z">
+        <seg>OSMの使い方、調査方法、編集方法...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1343,10 +1439,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OSM is now often as good or better as what is commercially available</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012619Z" creationid="miurahr" creationdate="20250817T012619Z">
+        <seg>OSM は現在、市販されているものと同等かそれ以上であることがよくあります</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OSM runs a lean operation.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T085241Z" creationid="miurahr" creationdate="20250816T085241Z">
         <seg>OSM はリーン操作を実行します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OSM was founded in 2004 by Steve Coast, and taken up by a community of enthusiasts who wanted a free and open source data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012407Z" creationid="miurahr" creationdate="20250817T012407Z">
+        <seg>OSMは2004年にSteve Coastによって設立され、自由なオープンデータを求める愛好家のコミュニティが発展させてきました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1427,6 +1539,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T093443Z" creationid="miurahr" creationdate="20250816T093443Z">
         <seg>OpenStreetMapは、巨大な国際コミュニティによって作成および維持されている、無料で編集可能な世界地図です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenStreetMap is used by people all over the world – individuals, volunteers, companies, nonprofits, governments, …</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012233Z" creationid="miurahr" creationdate="20250817T012233Z">
+        <seg>OpenStreetMapは、個人、ボランティア、企業、非営利団体、政府など、世界中の人々によって使用されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1696,6 +1816,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012503Z" creationid="miurahr" creationdate="20250817T012503Z">
+        <seg>OSM財団ワーキンググループは、OpenStreetMapのさまざまな側面を管理・運営するボランティアです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OSM Foundation Working Groups are volunteers who manage and run various aspects of OpenStreetMap.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T090554Z" creationid="miurahr" creationdate="20250816T090554Z">
@@ -1704,10 +1832,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OSM Foundation is the nonprofit organization that supports OSM and provides the necessary organizational backbone</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012448Z" creationid="miurahr" creationdate="20250817T012448Z">
+        <seg>OSM財団は、OSMをサポートし、必要な組織のバックボーンを提供する非営利団体です.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OpenStreetMap Foundation is a registered non-profit in the United Kingdom.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T085347Z" creationid="miurahr" creationdate="20250816T085347Z">
         <seg>OpenStreetMap Foundation は、英国で登録された非営利団体です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OpenStreetMap Foundation is happy to talk to groups who are going to apply and work with them to become a local chapter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012443Z" creationid="miurahr" creationdate="20250817T012443Z">
+        <seg>OpenStreetMap Foundationは、地方支部に応募し協力するグループと喜んで話し合います。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1796,6 +1940,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T090543Z" creationid="miurahr" creationdate="20250816T090543Z">
         <seg>公式ブログは &lt;g1&gt;https://blog.openstreetmap.org/&lt;/g1&gt;{:target="_blank"}にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The people and communities of OSM</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012546Z" creationid="miurahr" creationdate="20250817T012546Z">
+        <seg>OSMの人々とコミュニティ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,6 +2050,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are many different ways to get in touch with the OpenStreetMap community, it depends on what you want to ask about</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012334Z" creationid="miurahr" creationdate="20250817T012334Z">
+        <seg>OpenStreetMapコミュニティと連絡を取るにはさまざまな方法がありますが、それはあなたが何について尋ねたいかによって異なります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are many examples of humanitarian mapping; OSMF does not endorse any particular group, but some active organizations are the &lt;g1&gt;Humanitarian OpenStreetMap Team&lt;/g1&gt;{:target="_blank"}, the &lt;g2&gt;Missing Maps project&lt;/g2&gt;{:target="_blank"}, and &lt;g3&gt;Projet Espace OSM Francophone&lt;/g3&gt;{:target="_blank"}.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T235447Z" creationid="miurahr" creationdate="20250816T235447Z">
@@ -1910,6 +2070,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T234606Z" creationid="miurahr" creationdate="20250816T234606Z">
         <seg>OSMを使っている組織や企業はたくさんありますし、OSMを使ってツールやプロセスを構築する開発者もいます。OSM財団は開発者を精査したり、開発者のリストを管理したりしません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are many ways to find out what’s new with OpenStreetMap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012458Z" creationid="miurahr" creationdate="20250817T012458Z">
+        <seg>OpenStreetMapの新機能を知る方法はたくさんあります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2196,6 +2364,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What makes OpenStreetMap special?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012552Z" creationid="miurahr" creationdate="20250817T012552Z">
+        <seg>OpenStreetMapが特別な理由は何ですか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What other ways can we contribute?</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T090846Z" creationid="miurahr" creationdate="20250816T090846Z">
@@ -2272,6 +2448,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T093458Z" creationid="miurahr" creationdate="20250816T093458Z">
         <seg>OpenStreetMapを使用する理由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Workers from the Red Cross humanitarian mission have spread papers with local area research on the ground and are discussing them</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250817T012322Z" creationid="miurahr" creationdate="20250817T012322Z">
+        <seg>赤十字人道支援ミッションの職員は、現地で現地の調査をした論文を広め、議論している</seg>
       </tuv>
     </tu>
     <tu>
