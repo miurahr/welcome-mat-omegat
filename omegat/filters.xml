@@ -196,7 +196,7 @@
   <filter className="net.sf.okapi.lib.omegat.MarkdownFilter" enabled="true">
     <files sourceFilenameMask="*.md" targetFilenamePattern="${filename}"/>
     <option name="includeTUName" value="yes"/>
-    <option name="useCustom" value="markdown.fprm"/>
+    <option name="useCustom" value="omegat/markdown.fprm"/>
     <option name="useDefault" value="no"/>
     <option name="useNameAsId" value="yes"/>
   </filter>
