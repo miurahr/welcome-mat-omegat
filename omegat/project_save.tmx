@@ -1519,6 +1519,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenStreetMap is a free, editable map of the whole world made by people like you</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250824T004048Z" creationid="miurahr" creationdate="20250824T004048Z">
+        <seg>OpenStreetMapは、あなたのような一般の人々が作成する、自由で編集可能な世界地図です</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OpenStreetMap is a project powered by its community.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T233811Z" creationid="miurahr" creationdate="20250816T233811Z">
@@ -2320,6 +2328,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20250816T090032Z" creationid="miurahr" creationdate="20250816T090032Z">
         <seg>また、グループに参加するOSMコミュニティのメンバーが地方支部の事務を決定できるように、地方支部が民主的な構造を持つことを期待しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome Mat | OpenStreetMap</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20250824T005014Z" creationid="miurahr" creationdate="20250824T005014Z">
+        <seg>OpenStreetMap 案内デスク</seg>
       </tuv>
     </tu>
     <tu>
