@@ -7,7 +7,7 @@
       </repository>
       <repository type="http" url="https://github.com/osmfoundation/welcome-mat/raw/main/">
         <mapping local="source/ja/ja.yml" repository="docs/en/en.yml"/>
-        <mapping local="source/ja/index.md" repository="docs/en/how-to-give-back.md"/>
+        <mapping local="source/ja/index.md" repository="docs/en/index.md"/>
         <mapping local="source/ja/how-to-give-back.md" repository="docs/en/how-to-give-back.md"/>
         <mapping local="source/ja/what-is-openstreetmap.md" repository="docs/en/what-is-openstreetmap.md"/>
         <mapping local="source/ja/who-is-openstreetmap.md" repository="docs/en/who-is-openstreetmap.md"/>
